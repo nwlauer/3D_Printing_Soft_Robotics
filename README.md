@@ -1,4 +1,4 @@
-# 3D_Printing_Soft_Robotic
+# 3D Printing Soft Robotics
 
   This project revolves mostly around the fabrication of a soft robotic system out of a flexible filament that requires no post processing after printing. Additionally, a new design is constructed for a worm-like robot and accompanying control system. 
   
