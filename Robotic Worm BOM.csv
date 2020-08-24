@@ -1,0 +1,25 @@
+Description/ID,Quantity,Qty_Unit,Manufacturer,Product No.,Source Link,Unit Cost,Notes,Type
+Arduino Uno R3,1,-,Elegoo,EL-CB-001,https://www.amazon.com/ELEGOO-Board-ATmega328P-ATMEGA16U2-Compliant/dp/B01EWOE0UU ,$12.98,-,Electronic
+NinjaFlex,25,grams,NinjaTek,-,https://www.amazon.com/NinjaTek-3DNF08117505-NinjaFlex-Filament-TPE-5kg/dp/B00J12HGDW/ref=sr_1_10?dchild=1&keywords=ninjaflex&qid=1597950514&sr=8-10 ,$0.09,If using alternatives try to get one with similar elongation and shore hardness,Hardware&Materials
+PVA,25,grams,SainSmart,-,https://www.amazon.com/gp/product/B00SSXAET8/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1 ,$0.06,Any Brand is fine,Hardware&Materials
+2mm ID x 4mm OD Silicone Tubing,5,ft,Generic,-,https://www.amazon.com/DERPIPE-Silicone-Tubing-Flexible-Homebrewing/dp/B07PZT7FC7/ref=sr_1_3?dchild=1&keywords=2mm%2BID%2B4mm%2BOD%2Bsilicone&qid=1597950995&sr=8-3&th=1 ,$0.70,-,Hardware&Materials
+4mm ID x 6mm OD Silicone Tubing,1,ft,Generic,-,https://www.amazon.com/dp/B08BR8MQSR/ref=sr_1_2?dchild=1&keywords=4mm+ID+6mm+OD+silicone&qid=1597951155&sr=8-2 ,$1.20,-,Hardware&Materials
+12V Mini Diaphragm Pump,1,-,Parker/Hargraves ,C 183-22-01,https://www.ebay.com/itm/Mini-Diaphragm-single-head-Air-And-Gas-Hargraves-Pump-2-5L-min-12VDC/301748351096?_trkparms=aid%3D111001%26algo%3DREC.SEED%26ao%3D1%26asc%3D20160908105057%26meid%3D4d9974f7096c488a97574bbdb9260793%26pid%3D100675%26rk%3D2%26rkt%3D14%26mehot%3Dag%26sd%3D263807376340%26itm%3D301748351096%26pmt%3D0%26noa%3D1%26pg%3D2380057%26brand%3DParker&_trksid=p2380057.c100675.m4236&_trkparms=pageci%3A3eade5b9-e31a-11ea-807f-74dbd1800085%7Cparentrq%3A0d50f9f51740acc6e18d697bffffd810%7Ciid%3A1 ,$22.49,Ubiquitous on the secondary market look for deals. Similar pumps can be used in place.,Electronic
+6 V 2 position 3 way mini solenoid valve,6,,Zonhen,ZHV-0519,https://www.ebay.com/itm/DC-5V-6V-2-Position-3-Way-Micro-Mini-Electric-Solenoid-Valve-for-Gas-Air-Pump/263807376340?_trkparms=aid%3D111001%26algo%3DREC.SEED%26ao%3D1%26asc%3D20160908105057%26meid%3D5a412852da674f34a5f07fcc63d0678f%26pid%3D100675%26rk%3D2%26rkt%3D14%26mehot%3Dnone%26sd%3D301748351096%26itm%3D263807376340%26pmt%3D0%26noa%3D1%26pg%3D2380057&_trksid=p2380057.c100675.m4236&_trkparms=pageci%3Ad9cff2a9-e31a-11ea-b30e-72e9451ece47%7Cparentrq%3A0d54f29e1740a69e54dfa89bffffb032%7Ciid%3A1 ,$2.45,"Ubiquitous on secondary market, does not have to be Zonhen brand. Usually marketed for use in eye massagers.",Electronic
+12V 2A Power Supply,1,-,Generic,-,https://www.amazon.com/100-240V-Transformers-Switching-Applications-Connectors/dp/B077PW5JC3/ref=sr_1_3?dchild=1&keywords=12v+2+amp+power+supply&qid=1597951842&sr=8-3 ,$5.00,-,Electronic
+LM2596 adjustable buck converter module,1,-,Generic,-,https://www.amazon.com/MCIGICM-step-down-Converter-3-0-40V-1-5-35V/dp/B06XZ1DKF2/ref=sr_1_4?dchild=1&keywords=lm2596&qid=1597952049&sr=8-4 ,$2.00,-,Electronic
+1k Ohm Resistor,7,-,Generic,-,,$0.01,-,Electronic
+NPN Amplifier Transistor,6,-,Generic,BC337,https://www.sparkfun.com/products/13689 ,$0.50,-,Electronic
+Darlington Transistor,1,-,Generic,TIP 120,https://www.amazon.com/TIP120-Darlington-Transistor-Arduino-Diodes/dp/B00FVLGYEY ,$1.00,-,Electronic
+Clamping Diodes,7,-,Generic,1N4007,https://www.amazon.com/ILS-Pieces-Rectifier-Component-Projects/dp/B07PXV4F2C/ref=sr_1_1?dchild=1&keywords=1N4007&qid=1597952688&s=electronics&sr=1-1 ,$0.01,Can use 1N4001 and up,Electronic
+XH-2A Connectors,6,-,Generic,-,https://www.amazon.com/IZOKEE-460pcs-Connector-Housing-Terminal/dp/B0791DJMW9/ref=sr_1_3?dchild=1&keywords=xH+connectors&qid=1597952858&s=electronics&sr=1-3 ,$0.02,Optional for connecting the solenoid valves to the circuit,Electronic
+XH-4A Connector,1,-,Generic,-,https://www.amazon.com/IZOKEE-460pcs-Connector-Housing-Terminal/dp/B0791DJMW9/ref=sr_1_3?dchild=1&keywords=xH+connectors&qid=1597952858&s=electronics&sr=1-3 ,$0.02,Optional for connecting the pump,Electronic
+No Residue Tap,1,ft,Generic,-,-,$1.00,"Any kind will do, I used Kapton",Hardware&Materials
+Small Zip Ties,6,-,Generic,-,https://www.amazon.com/TR-Industrial-TR88301-Multi-Purpose-Cable/dp/B01018DB2E/ref=sr_1_3?dchild=1&keywords=small+zip+ties&qid=1597953129&s=electronics&sr=1-3 ,$0.50,Less then 2mm width works best,Hardware&Materials
+"Vinyl, Fabric & Plastic Flexible Adhesive",2,Ounce,Loctite,1360694,https://www.amazon.com/Loctite-Plastic-Adhesive-1-Ounce-1360694/dp/B001F7E9VI ,$2.94,-,Hardware&Materials
+Jumper Wires,40,-,-,-,-,$5.00,For Breadboarding or proto-boarding,Hardware&Materials
+3D Printer,1,-,-,-,-,-,Must be able to print NinjaFlex,Tools
+Wire Cutters and Strippers,-,-,-,-,-,-,-,Tools
+Soldering Iron and Solder,-,-,-,-,-,-,Optional,Tools
+Breadboard,-,-,-,-,-,-,-,Tools
+Straight Pick,-,-,-,-,-,-,-,Tools
